@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on any open source web apps using React JS.
-- 📫 How to reach me: andrew@256web.design
+- 📫 How to reach me: andrew@mugisha.dev
 
 <!---
 amugisha7/amugisha7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
