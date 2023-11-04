@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amugisha7
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on any open source web apps using React JS.
 - 📫 How to reach me: andrew@mugisha.dev
 
